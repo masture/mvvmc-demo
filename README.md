@@ -5,6 +5,7 @@ This is the sample code from a talk called MVVM-C in Practice.
 ## Versions and Branches
 + The version presented at The Mobile Developer Summit in September 2016 is the current master branch and is in Swift 3.
 + The version presented at UIKonf in Berlin in May 2016 is in the Swift-2.2 branch.
++ This version is updated to Swift 4.2 using Xcode 10.1
 
 ## The Talk
 
